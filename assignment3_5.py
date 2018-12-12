@@ -8,9 +8,11 @@ class person:
         return self.name
 
 class student(person):
-    def __int__(self,id,name):
+
+    def __init__(self,id,name):
         person.__int__(self,name)
         self.id = id
+
     def printid(self):
         return self.id
     def printname(self):
@@ -23,10 +25,8 @@ class student(person):
         print("this is class method")
 p = person()
 print(p.getname())
+stu = student(2,"abc")
 
-s = student(2,"56")
-s = student.printid(s)
-s =student.printname()
 
 
 
