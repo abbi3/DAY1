@@ -1,0 +1,33 @@
+DAY-1
+*Python basics
+*python data types
+*python ID() and type()
+*control structures
+	*if else
+	*else if,nested if
+	*Break,continue,pass
+*data structures
+	*lists
+	*Strings
+	*Tuples
+	*Sets
+	*Dictionary
+*Assignments of the day-1
+*lex Assignments
+------------------------------------------------------
+Day-2
+*Functions
+	*calling function
+	*passing arguments to Function
+	*types of function calling
+*files Operation
+	*Open 
+	*Read
+	*Write
+	*Close
+*Assignemts 	
+
+
+
+
+	
